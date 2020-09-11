@@ -104,3 +104,7 @@ You can also pass any `odoo-bin` args via `run.sh`, e.g.:
 # Re-build the images (with the latest ubuntu)
 ./build.sh
 ```
+
+### Credits:
+
+Taken from: https://github.com/jimmybanegas93/junari-odoo-docker
