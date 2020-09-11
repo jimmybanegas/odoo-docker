@@ -104,3 +104,7 @@ You can also pass any `odoo-bin` args via `run.sh`, e.g.:
 # Re-build the images (with the latest ubuntu)
 ./build.sh
 ```
+
+### Reference Tutorial
+
+https://medium.com/@dupski/creating-and-installing-your-first-odoo-module-using-docker-and-visual-studio-code-41ebdfd362e4
