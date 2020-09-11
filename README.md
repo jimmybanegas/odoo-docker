@@ -108,3 +108,7 @@ You can also pass any `odoo-bin` args via `run.sh`, e.g.:
 ### Reference Tutorial
 
 https://medium.com/@dupski/creating-and-installing-your-first-odoo-module-using-docker-and-visual-studio-code-41ebdfd362e4
+
+### Credits:
+
+Taken from: https://github.com/jimmybanegas93/junari-odoo-docker
