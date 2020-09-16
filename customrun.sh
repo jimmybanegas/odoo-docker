@@ -4,4 +4,4 @@ docker run --rm -it --name=junari-odoo-dev11 \
     -v junari-odoo-custom-addons:/opt/odoo/custom_addons \
     -v junari-odoo-home:/home/odoo \
     -p 8070:8069 --env-file=odoo.env \
-    junari/odoo11 bash
+    jimmybanegas93/odoo11 bash
