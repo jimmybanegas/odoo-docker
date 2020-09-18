@@ -1,4 +1,4 @@
-FROM junari/odoo-os:latest
+FROM jimmybanegas93/odoo-os:latest
 
 # Create odoo user and directories and set permissions
 RUN useradd -ms /bin/bash odoo \
