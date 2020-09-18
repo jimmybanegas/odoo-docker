@@ -111,4 +111,4 @@ https://medium.com/@dupski/creating-and-installing-your-first-odoo-module-using-
 
 ### Credits:
 
-Taken from: https://github.com/jimmybanegas93/junari-odoo-docker
+Taken from: Taken from: https://github.com/junariltd/junari-odoo-docker
