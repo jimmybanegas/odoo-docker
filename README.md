@@ -107,4 +107,4 @@ You can also pass any `odoo-bin` args via `run.sh`, e.g.:
 
 ### Credits:
 
-Taken from: https://github.com/jimmybanegas93/junari-odoo-docker
+Taken from: https://github.com/junariltd/junari-odoo-docker
