@@ -14,6 +14,9 @@ RUN git clone --branch=13.0 --depth=1 https://github.com/odoo/odoo.git odoo
 USER root
 RUN pip3 install --no-cache-dir -r odoo/requirements.txt
 
+USER root
+RUN pip3 install paramiko --no-cache-dir
+
 # Define runtime configuration
 COPY src/entrypoint.sh /opt/odoo
 COPY src/scripts/* /opt/odoo/scripts
