@@ -9,7 +9,7 @@ WORKDIR /opt/odoo
 
 # Install Odoo and dependencies from latest source
 USER odoo
-RUN git clone --branch=13.0 --depth=1 https://github.com/odoo/odoo.git odoo
+RUN git clone --branch=14.0 --depth=1 https://github.com/odoo/odoo.git odoo
 
 USER root
 RUN pip3 install --no-cache-dir -r odoo/requirements.txt

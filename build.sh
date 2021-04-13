@@ -4,4 +4,4 @@ echo "Building the jimmybanegas93/odoo-os image..."
 docker build -t jimmybanegas93/odoo-os -f junari-odoo-os.dockerfile --pull .
 
 echo "Building the jimmybanegas93/odoo image..."
-docker build -t jimmybanegas93/odoo13 -f junari-odoo.dockerfile .
+docker build -t jimmybanegas93/odoo14 -f junari-odoo.dockerfile .
