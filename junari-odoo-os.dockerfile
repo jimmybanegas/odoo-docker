@@ -20,4 +20,5 @@ RUN set -x; \
     libsasl2-dev \
     git \
     openssh-client \
+    node-less \
     && rm -rf /var/lib/apt/lists/* wkhtmltox.deb
